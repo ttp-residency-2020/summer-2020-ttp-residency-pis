@@ -1,23 +1,24 @@
-# Tech Talent Pipeline Residency: Hunter College January 2020 Bootcamp
+# Tech Talent Pipeline Residency: Summer 2020 Bootcamp
 
 Class Days and Class Times:
 
 Monday - Friday, 10:00AM - 4:00PM
 
 Dates:
-January 2nd, 2020 (Monday) - January 24th, 2020 (Friday)
+May 27th, 2020 (Wednesday) - June 22nd, 2020 (Monday)
 
-We will also have two Saturday classes on January 11th, 2020 and January 18th, 2020**
+Google Classroom: https://classroom.google.com/c/ODcxNjAwMDUwNDRa
 
-Room Number: Hunter North 531
+Slack Workspace: https://summer2020ttp.slack.com
 
-Lead Instructor: Allan James S. Lapid
+Lead Instructor: Shahid Sarker
 
-Instructor: Billy Tan, Tony Fung
+Teaching Assistants: TBA
 
-Emails: ajLapid718@gmail.com, btan7645@gmail.com, tfung5@gmail.com
+Program Manager: Allan James S. Lapid
 
-Slack Workspace: https://hunterttpspring2020.slack.com
+Emails: shahid.sarker@gmail.com, ajLapid718@gmail.com
+
 
 ---
 

@@ -98,7 +98,7 @@ Daily Schedule (Subject To Change!)
 
 - [Git and GitHub Slides - Part II](https://docs.google.com/presentation/d/1Qkz1Z83P2b2EUFDrMN8L1X7BcMwZzzkSqCKCI8INH78/edit?usp=sharing)
 
-<!-- - [Collaboration Workshop Assignment](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak) -->
+- [Collaboration Workshop Assignment](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak)
 
 **Class Session 2: Javascript Basics Overview (01/03/2019)**
 

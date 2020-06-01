@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="main">
+      <h1>Hello world!</h1>
+    </div>
+    <div class="content" id="first">
+      <div id="will">
+        <p id="paraOne">First Text for demo</p>
+        <p id="paraTwo">Second Text for demo</p>
+        <p id="paraThree">3rd Text for demo</p>
+      </div>
+    </div>
+    <div class="content" id="login">
+      <h1 id="title">Enter your information</h1>
+      <form action="/login" method="post">
+        <div>
+          <label for="username">Username</label>
+          <input type="text" name="username" id="username" />
+        </div>
+        <div>
+          <label for="password">Password</label>
+          <input type="password" name="password" id="password" />
+        </div>
+        <input type="submit" value="Submit" id="loginSubmit" />
+      </form>
+    </div>
+    <script type="text/javascript" src="./main.js"></script>
+  </body>
+</html>

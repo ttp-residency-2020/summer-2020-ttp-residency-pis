@@ -1,0 +1,12 @@
+body {
+  /* background-color: aqua; */
+}
+
+.alert {
+  color: red;
+  font-weight: bold;
+}
+
+.message {
+  color: blue;
+}

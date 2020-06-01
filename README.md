@@ -19,7 +19,6 @@ Program Manager: Allan James S. Lapid
 
 Emails: shahid.sarker@gmail.com, ajLapid718@gmail.com
 
-
 ---
 
 Daily Schedule (Subject To Change!)
@@ -38,15 +37,15 @@ Daily Schedule (Subject To Change!)
 
 - Class Session 1: Pilot Assessment and Collaborative Workflow I | (05/28/2020)
 
-- Class Session 2: Collaborative Workflow I and Introduction to JS | (01/03/2020)
+- Class Session 2: Collaborative Workflow I and Introduction to JS | (05/29/2020)
 
-- Class Session 3: DOM Manipulation | (01/06/2020)
+- Class Session 3: DOM Manipulation | (06/01/2020)
 
-- Class Session 4: Introduction to React | (01/07/2020)
+- Class Session 4: Introduction to React | (06/02/2020)
 
-- Class Session 5: Introduction to External API Requests and ReactJS | (01/08/2020)
+- Class Session 5: Introduction to External API Requests and ReactJS | (06/03/2020)
 
-- Class Session 6: Introduction to External API Requests and ReactJS Continued | (01/09/2020)
+- Class Session 6: Introduction to External API Requests and ReactJS Continued | (06/04/2020)
 
 - Class Session 7: React Router and Client-Side Routing in a SPA | (01/10/2020)
 
@@ -100,7 +99,7 @@ Daily Schedule (Subject To Change!)
 
 - [Collaboration Workshop Assignment](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak)
 
-**Class Session 2: Javascript Basics Overview (01/03/2019)**
+**Class Session 2: Javascript Basics Overview (05/29/2020)**
 
 _Suggested Pre-Reading (you could also consider the first two chapers as well, but the links below are the more complex topics that we will be covering)_
 
@@ -110,13 +109,13 @@ _Suggested Pre-Reading (you could also consider the first two chapers as well, b
 
 - [Eloquent Javascript Chapter 5: Higher Order Function](http://eloquentjavascript.net/05_higher_order.html)
 
-- [JavaScript! slide deck](**Slides TBA**)
+- [JavaScript! slide deck](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing)
 
-- [More JavaScript! slide deck](**Slides TBA**)
+- [More JavaScript! slide deck](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing)
 
-<!-- - [Assignment #2](https://docs.google.com/document/d/1sB2_tX6U8_OiLHNrqa2KSleKFE_SjOkl9uO_IC_hLh8/edit?usp=sharing) -->
+- [Assignment #2](https://docs.google.com/document/d/1sB2_tX6U8_OiLHNrqa2KSleKFE_SjOkl9uO_IC_hLh8/edit?usp=sharing)
 
-**Class Session 3: DOM Manipulation (01/06/2020)**
+**Class Session 3: DOM Manipulation (06/01/2020)**
 
 _Suggested Pre-Reading_
 
@@ -130,17 +129,17 @@ _Suggested Pre-Reading_
 
 _Material For The Day_
 
-- [DOM lecture slides](**Slides TBA**)
+- [DOM lecture slides](https://docs.google.com/presentation/d/1MWE-AoSTGIQsk1-4UkLwlWwy-ns6VSbECK3fLIEL8LQ/edit?usp=sharing)
 
 - [An Introduction to the DOM (Document Object Model) in JavaScript](https://www.youtube.com/watch?v=l-0nPnSvbX8)
 - [Traversing the DOM with JavaScript](https://www.youtube.com/watch?v=8LWQNnVAMh4)
 - [An Introduction to DOM Events with JavaScript](https://www.youtube.com/watch?v=QE1YQnhntgw&list=PLruo2gSoqlej-QjRW25c97socsRiAUVuf&index=10)
 
-<!-- - [Assignment #3: DOM Challenges I](https://docs.google.com/document/d/1kY-L3-Nc1tGqcqNZMfxgRvQ6FBvQ6J8fFknki0BE8Ps/edit?usp=sharing) -->
+- [Assignment #3: DOM Challenges I](https://docs.google.com/document/d/1kY-L3-Nc1tGqcqNZMfxgRvQ6FBvQ6J8fFknki0BE8Ps/edit?usp=sharing)
 
-<!-- - [Assignment #4: DOM Challenges II](https://docs.google.com/document/d/1LPxdisEKHdqf9Xs9khDEQzMvtrOWNumcW_h700jP8Z8/edit?usp=sharing) -->
+- [Assignment #4: DOM Challenges II](https://docs.google.com/document/d/1LPxdisEKHdqf9Xs9khDEQzMvtrOWNumcW_h700jP8Z8/edit?usp=sharing)
 
-<!-- - [Assignment #5: DOM Challenges III](https://docs.google.com/document/d/1ZoWo5FtpiWP7LxsskteMGYPoYWQWzCsaHB2xjrLAqfA/edit?usp=sharing) -->
+- [Assignment #5: DOM Challenges III](https://docs.google.com/document/d/1ZoWo5FtpiWP7LxsskteMGYPoYWQWzCsaHB2xjrLAqfA/edit?usp=sharing)
 
 **Class Session 4: Introduction to React (01/07/2020)**
 
@@ -159,7 +158,7 @@ _Suggested Pre-Reading_
 - [React: Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - [React: An Overview via Videos](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
-*Reading for the weekend*:
+  _Reading for the weekend_:
 - [ReactJS: Quick Guide](https://www.tutorialspoint.com/reactjs/reactjs_quick_guide.htm) (An Optional Read) (Skip the section on Flux Architecture --- we'll be discussing that in Week 3)
 
 - [ReactJS Introduction Slides](**Slides TBA**)
@@ -184,18 +183,18 @@ _Suggested Pre-Reading_
 
   - [React Events / Forms](**Slides TBA**)
 
- - [Handling Multiple Inputs With One HandleChange Function](https://medium.com/@tmkelly28/handling-multiple-form-inputs-in-react-c5eb83755d15)
+- [Handling Multiple Inputs With One HandleChange Function](https://medium.com/@tmkelly28/handling-multiple-form-inputs-in-react-c5eb83755d15)
 
- - [An Approach for a Cancel Button](https://medium.com/@justintulk/best-practices-for-resetting-an-es6-react-components-state-81c0c86df98d)
+- [An Approach for a Cancel Button](https://medium.com/@justintulk/best-practices-for-resetting-an-es6-react-components-state-81c0c86df98d)
 
- - [Sabe React Tutorial](https://sabe.io/tutorials/getting-started-with-react)
- - [Async/Await](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
+- [Sabe React Tutorial](https://sabe.io/tutorials/getting-started-with-react)
+- [Async/Await](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
 
- - [Conditional Rendering: I](https://react-cn.github.io/react/tips/if-else-in-JSX.html)
+- [Conditional Rendering: I](https://react-cn.github.io/react/tips/if-else-in-JSX.html)
 - [Conditional Rendering: II](http://devnacho.com/2016/02/15/different-ways-to-add-if-else-statements-in-JSX/) (Be aware of all options, but disregard Option 2 for the time being)
 - [Conditional Rendering: III](https://reactjs.org/docs/conditional-rendering.html)
 
- - [Expected Behavior of Form/Folder Exercises](https://545q7.codesandbox.io/)
+- [Expected Behavior of Form/Folder Exercises](https://545q7.codesandbox.io/)
 
 **Class Session 6: Zip/City API Assignment && GIPHY API Assignment I | (01/08/2020)**
 

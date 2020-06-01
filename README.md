@@ -161,9 +161,9 @@ _Suggested Pre-Reading_
   _Reading for the weekend_:
 - [ReactJS: Quick Guide](https://www.tutorialspoint.com/reactjs/reactjs_quick_guide.htm) (An Optional Read) (Skip the section on Flux Architecture --- we'll be discussing that in Week 3)
 
-- [ReactJS Introduction Slides](**Slides TBA**)
+- [ReactJS Introduction Slides](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view?usp=sharing)
 
-<!-- - [Group Project #1 - Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf) -->
+- [Group Project #1 - Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf)
 
 **Class Session 5: Introduction to External API Requests and ReactJS Continued (01/07/2020)**
 
@@ -175,13 +175,13 @@ _Suggested Pre-Reading_
 
 - Lecture slides
 
-  - [AJAX, fetch, and Axios](**Slides TBA**)
+  - [AJAX, fetch, and Axios](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing)
 
-  - [Promises](**Slides TBA**)
+  - [Promises](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing)
 
-  - [React Lifecycle](**Slides TBA**)
+  - [React Lifecycle](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing)
 
-  - [React Events / Forms](**Slides TBA**)
+  - [React Events / Forms](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing)
 
 - [Handling Multiple Inputs With One HandleChange Function](https://medium.com/@tmkelly28/handling-multiple-form-inputs-in-react-c5eb83755d15)
 
@@ -198,9 +198,9 @@ _Suggested Pre-Reading_
 
 **Class Session 6: Zip/City API Assignment && GIPHY API Assignment I | (01/08/2020)**
 
-<!-- - [Zip/City API Assignment (Assignment "#6")](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc) -->
+- [Zip/City API Assignment (Assignment "#6")](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
 
-<!-- - [GIPHY API Assignment (Assignment "#7")](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1) -->
+- [GIPHY API Assignment (Assignment "#7")](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1)
 
 - [Chrome Extension for JSON Viewing](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US)
 - [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)

@@ -214,8 +214,10 @@ _Suggested Pre-Reading_
 - [React Router Resource 2](https://reacttraining.com/react-router/web/guides/quick-start)
 - [React Router Resource #3](https://reacttraining.com/react-router/web/guides/philosophy)
 - [React Router Resource #4](https://www.techiediaries.com/react-router-dom-v4/)
-- [React Router Slide Deck](**Slides TBA**)
-<!-- - [Bank of React Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63) -->
+- [React Router Slide Deck](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view)
+
+- [DOM Challenges III with ReactJS: Assignment #8](https://docs.google.com/document/d/1Wk--Xn8oTGWk6Lv39jl--8JtGC-MJQ49Qadv1Y0bv2s/edit)
+- [Bank of React Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
 
 **Class Session 9: Redux | (01/11/2020)**
 

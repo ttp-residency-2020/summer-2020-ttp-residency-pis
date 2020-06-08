@@ -223,10 +223,10 @@ _Suggested Pre-Reading_
 
 - [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
 - [Follow Up Redux Tutorial by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
-- [Redux / React-Redux Slides](**Slides TBA**)
-- [Redux / React-Redux Slides #2](**Slides TBA**)
-- [Redux Middleware Slides](**Slides TBA**)
-- [Redux Thunk Middleware Slides](**Slides TBA**)
+- [Redux / React-Redux Slides](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view?usp=sharing)
+- [Redux / React-Redux Slides #2](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view?usp=sharing)
+- [Redux Middleware Slides](https://drive.google.com/file/d/13D5Wv4-evRB9FUgRlr9cH_vPE0oRgafi/view?usp=sharing)
+- [Redux Thunk Middleware Slides](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view?usp=sharing)
 
 - [What Thunks Are, What They Solve, and Other Options](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60)
 

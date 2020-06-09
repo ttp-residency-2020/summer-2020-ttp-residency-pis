@@ -242,9 +242,9 @@ _Suggested Pre-Reading_
 
 **Class Session 10: Introduction to NodeJS | (01/13/2020)**
 
-- [Intro to Node slides](**Slides TBA**)
+- [Intro to Node slides](https://drive.google.com/file/d/1ipobX-kGeBf7bW5cshE7Nx3PS3dwpY9z/view?usp=sharing)
 
-- [NPM Slides](**Slides TBA**)
+- [NPM Slides](https://drive.google.com/file/d/1HBf6oLbu5VIBfFM2P-a2A2FYmFaN_4W4/view?usp=sharing)
 
 - [JavaScript Conference 2014: The Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be&t=676) <= _The entire video is recommended to understand Node's async implementation, but the core explanation begins around 11 minutes into the video_
 
@@ -256,13 +256,13 @@ _Suggested Pre-Reading_
 
 **Class Session 11: Introduction to ExpressJS | (01/14/2020)**
 
-- [Intro to Express slides](**Slides TBA**)
+- [Intro to Express slides](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing)
 
-- [REST API](**Slides TBA**)
+- [REST API](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view?usp=sharing)
 
-<!-- **Class Session 12: PostgreSQL/Sequelize I (01/15/2020)** -->
+**Class Session 12: PostgreSQL/Sequelize I (01/15/2020)** -->
 
-<!-- - [Introduction to PostgresQL](**Slides TBA**)
+- [Introduction to PostgresQL](**Slides TBA**)
 - [node-postgres client (pg)](**Slides TBA**>
 - [Postgres Install](https://gist.github.com/johnnybee4e/cbb1e3081cec5ddb5d1d2cc50238eb92)
 - [SQLBolt Tutorial](https://sqlbolt.com/)
@@ -270,10 +270,11 @@ _Suggested Pre-Reading_
 - [Sequelize Querying and Associations: Part I](https://gist.github.com/ajLapid718/ca67efc0360c617e5eebb6f1342ae53e)
 - [Sequelize Querying and Associations: Part II](https://gist.github.com/ajLapid718/dfb48815a7472e9f6df09131bd0a7d49)
 - [Sequelize Slides](**Slides TBA**)
-- [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference) -->
+- [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
 
-<!-- **Class Session 13: PostgreSQL/Sequelize II (01/16/2020)** -->
-<!-- - [Introduction To Databases](**Slides TBA**)
+**Class Session 13: PostgreSQL/Sequelize II (01/16/2020)**
+
+- [Introduction To Databases](**Slides TBA**)
 - [Introduction To SQL](**Slides TBA**)
 - [Node-Postgres](**Slides TBA**)
 - [Introduction To Schemas](**Slides TBA**)

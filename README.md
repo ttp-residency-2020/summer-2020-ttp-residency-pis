@@ -262,24 +262,24 @@ _Suggested Pre-Reading_
 
 **Class Session 12: PostgreSQL/Sequelize I (01/15/2020)** -->
 
-- [Introduction to PostgresQL](**Slides TBA**)
-- [node-postgres client (pg)](**Slides TBA**>
+- [Introduction to PostgresQL](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing)
+- [node-postgres client (pg)](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view?usp=sharing)
 - [Postgres Install](https://gist.github.com/johnnybee4e/cbb1e3081cec5ddb5d1d2cc50238eb92)
 - [SQLBolt Tutorial](https://sqlbolt.com/)
 - [SQLZoo Tutorial](https://sqlzoo.net/)
 - [Sequelize Querying and Associations: Part I](https://gist.github.com/ajLapid718/ca67efc0360c617e5eebb6f1342ae53e)
 - [Sequelize Querying and Associations: Part II](https://gist.github.com/ajLapid718/dfb48815a7472e9f6df09131bd0a7d49)
-- [Sequelize Slides](**Slides TBA**)
+- [Sequelize Slides](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing)
 - [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
 
 **Class Session 13: PostgreSQL/Sequelize II (01/16/2020)**
 
-- [Introduction To Databases](**Slides TBA**)
-- [Introduction To SQL](**Slides TBA**)
-- [Node-Postgres](**Slides TBA**)
-- [Introduction To Schemas](**Slides TBA**)
-- [Introduction To ORMs](**Slides TBA**)
-- [Rounding Out Express and Sequelize](**Slides TBA**)
+- [Introduction To Databases](https://drive.google.com/file/d/1WsA3z9FAp5ZuiQzb9Wfmnll7OCpBUa4g/view?usp=sharing)
+- [Introduction To SQL](https://drive.google.com/file/d/1LlIzBeY7KWs8CtNndi7yLunixw8WprWz/view?usp=sharing)
+- [Node-Postgres](https://drive.google.com/file/d/1DG3bbl8Gs59g7k2UqTo6eP_9LyYaZPyu/view?usp=sharing)
+- [Introduction To Schemas](https://drive.google.com/file/d/16cL5H3i5Yo9S2GNDqQJrFOHfT9QZbOKI/view?usp=sharing)
+- [Introduction To ORMs](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view?usp=sharing)
+- [Rounding Out Express and Sequelize](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing)
 - [GitHub Repository Of A Backend For A Sports App](https://github.com/ajlapid718/affiliated)
   - Involves Node, Express, PostgreSQL, and Sequelize
 - [Under-The-Hood SQL Statements for Sequelize Queries and Methods](https://gist.github.com/ajLapid718/e88e9bf05eb6bc851c219fd486c2bc1c)

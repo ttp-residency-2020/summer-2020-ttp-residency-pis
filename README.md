@@ -260,11 +260,11 @@ _Suggested Pre-Reading_
 
 - [REST API](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view?usp=sharing)
 
-**Class Session 12: PostgreSQL/Sequelize I (01/15/2020)** -->
+**Class Session 12: PostgreSQL/Sequelize I (01/15/2020)**
 
 - [Introduction to PostgresQL](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing)
 - [node-postgres client (pg)](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view?usp=sharing)
-- [Postgres Install](https://gist.github.com/johnnybee4e/cbb1e3081cec5ddb5d1d2cc50238eb92)
+<!-- - [Postgres Install](https://gist.github.com/johnnybee4e/cbb1e3081cec5ddb5d1d2cc50238eb92) -->
 - [SQLBolt Tutorial](https://sqlbolt.com/)
 - [SQLZoo Tutorial](https://sqlzoo.net/)
 - [Sequelize Querying and Associations: Part I](https://gist.github.com/ajLapid718/ca67efc0360c617e5eebb6f1342ae53e)
